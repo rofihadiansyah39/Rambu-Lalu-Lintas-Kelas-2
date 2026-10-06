@@ -1,0 +1,6 @@
+{
+  "name": "Si Cilik Tertib: Simulasi Mengemudi & Belajar Rambu Lalu Lintas Kelas 2 SD",
+  "description": "Aplikasi edukasi interaktif dan simulasi mengemudi dengan deteksi kamera untuk siswa kelas 2 SD mempelajari rambu lalu lintas dan keselamatan jalan raya.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
